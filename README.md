@@ -39,9 +39,7 @@ I'm an indie developer, building my own version of the digital world one step at
 
 #
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS
+<!-- ### 📺 Latest YouTube Videos BEGIN YOUTUBE-CARDS
 [![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
 [![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
 [![I Built an AI That Shoots Me in the Face When I Get Distracted](https://ytcards.demolab.com/?id=A8eegxL82PI&title=I+Built+an+AI+That+Shoots+Me+in+the+Face+When+I+Get+Distracted&timestamp=1662046201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=570 "I Built an AI That Shoots Me in the Face When I Get Distracted")](https://www.youtube.com/watch?v=A8eegxL82PI)
@@ -66,5 +64,5 @@ I'm an indie developer, building my own version of the digital world one step at
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
    I started my coding journey as a naive software engineering student. 
    Now I'm learning about data structures and algorithms in college.
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]: https://ancient-lowlands-14187.herokuapp.com/
+
