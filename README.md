@@ -48,10 +48,10 @@ I'm an indie developer, building my own version of the digital world one step at
 [![Everything You NEED to Know About WEB APP Architecture](https://ytcards.demolab.com/?id=sDlCSIDwpDs&title=Everything+You+NEED+to+Know+About+WEB+APP+Architecture&timestamp=1655911813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=627 "Everything You NEED to Know About WEB APP Architecture")](https://www.youtube.com/watch?v=sDlCSIDwpDs)
  END YOUTUBE-CARDS -->
 
+<!-- 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
+-->
 #
-
 ### 📊 Stats
 
 <!-- [Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox) -->
@@ -61,7 +61,7 @@ I'm an indie developer, building my own version of the digital world one step at
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Lucas' coding journey</h3></summary>
    I started my coding journey as a naive software engineering student. 
    Now I'm learning about data structures and algorithms in college.
 [website]: https://ancient-lowlands-14187.herokuapp.com/
