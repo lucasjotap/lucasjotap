@@ -18,8 +18,6 @@
 <img align="left" alt="Scala" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"> 
 <br />
 
-          
-
 ### 📊 Stats
 
 ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjotap&show_icons=true&theme=gruvbox)
@@ -32,5 +30,6 @@
  <summary><h3>👨‍💻 Lucas' coding journey</h3></summary>
    I started my coding journey as a naive software engineering student. 
    Now I'm learning about data structures and algorithms in college.
+
 [website]: https://ancient-lowlands-14187.herokuapp.com/
 
