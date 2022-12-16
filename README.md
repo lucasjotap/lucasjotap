@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-#### I'm an indie developer, building my own version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+#### I'm an indie software engineer, building my own version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 ---
 
 ### 🧰 Languages and Tools
@@ -32,8 +32,8 @@
 
 <details>
  <summary><h3>👨‍💻 Lucas' coding journey</h3></summary>
-   I started my coding journey as a naive software engineering student. 
-   Now I'm learning about data structures and algorithms in college.
+   I started my coding journey learning about computer languages. 
+   Now I'm learning about data structures and algorithms in college and developing applications for Big Data processing with Apache Spark.
 
-[website]: https://ancient-lowlands-14187.herokuapp.com/
+[website]: https://lucas-pereira-portfolio.netlify.app/
 
