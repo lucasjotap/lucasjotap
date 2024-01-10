@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-#### I'm an indie software engineer. I love building applications and designing algorithms. My interests are computer science, software engineering. Lately I have been building application to solve Big Data.
+#### I'm an indie software engineer. I love building applications and designing algorithms. My interests are computer science & software engineering. Lately I have been building application to solve Big Data.
 #### Computer science is my bread and butter and I love everything related to it. Solving real-life problems with code is my main goal, but I also love to have fun with computational problems from low-level all the way to high-level.
 ---
 
