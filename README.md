@@ -21,12 +21,12 @@ Clean code, scalability, and solid engineering fundamentals are the backbone of 
 <br><br>
 
 #### **Big Data & Distributed Systems**
+<img align="left" alt="Scala" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original-wordmark.svg" />
+<img align="left" alt="Spark" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" /> 
+<img align="left" alt="Hadoop" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" /> 
+<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <!-- clean, official AWS logo -->
+<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> <br><br>
 
-<img align="left" alt="Spark" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
-<img align="left" alt="Hadoop" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
-<img align="left" alt="AWS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<br><br>
 
 #### **Web Engineering**
 
