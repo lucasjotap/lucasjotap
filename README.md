@@ -2,7 +2,7 @@
 
 # 🏄‍♂️ Lucas JP
 
-**`Software Engineer • Big Data & Distributed Systems`**
+**Software Engineer • Big Data & Distributed Systems**
 
 I build systems that move, process, and serve massive amounts of data. My background sits at the intersection of software engineering, distributed computing, and modern web architecture.
 Spark, clusters, streaming, cloud infrastructure, and backend engineering — that’s my day-to-day.
