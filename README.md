@@ -1,5 +1,3 @@
----
-
 # 🏄‍♂️ Lucas JP
 
 **Software Engineer • Big Data & Distributed Systems**
