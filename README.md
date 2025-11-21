@@ -71,5 +71,6 @@ Over time I moved from learning algorithms and systems to actually deploying rea
 Today, I focus on solving meaningful problems with strong engineering fundamentals and modern distributed technologies.
 
 </details>
-[website](https://lucasjp.netlify.app/)/ 
+
 ---
+[website](https://lucasjp.netlify.app/)/ 
