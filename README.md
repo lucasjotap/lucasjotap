@@ -1,4 +1,4 @@
-# 🏄‍♂️ Lucas JP
+# 🏄‍♂️ Lucas
 
 **Software Engineer • Big Data & Distributed Systems**
 
